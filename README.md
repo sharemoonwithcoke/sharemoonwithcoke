@@ -55,21 +55,10 @@ Full-stack engineer with hands-on experience shipping web products and integrati
 ![AWS](https://img.shields.io/badge/-AWS-8b6914?style=flat-square&logo=amazonaws&logoColor=f0e8d6)
 ![Git](https://img.shields.io/badge/-Git-8b6914?style=flat-square&logo=git&logoColor=f0e8d6)
 
-> 替换为你实际掌握的技术，招聘方会追问的，没用过的请删掉
+
 
 ---
 
-## Experience
-
-**YOUR_COMPANY** · Software Engineer Intern `Month 20XX – Month 20XX`
-
-A brief line describing the team and what you owned. Then the specifics:
-
-- Shipped [具体功能] using [技术], reducing [问题] by [X%]
-- Built [系统/工具], serving [X] users / processing [X] requests per day
-- Collaborated with [X]-person cross-functional team to [做了什么]
-
-*如有多段实习经历，继续按此格式向下添加*
 
 ---
 
