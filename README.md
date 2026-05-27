@@ -75,8 +75,4 @@ I'm actively interviewing and happy to connect — whether it's a role, a referr
 
 <div align="center">
 
-*Last updated: 2025 · still building, always learning.*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=c9a84c&style=flat-square&label=readers)
-
-</div>
