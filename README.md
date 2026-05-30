@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/Email-lyueming1006%40gmail.com-8b6914?style=flat-square&logo=gmail&logoColor=8b6914&labelColor=f0e8d6)](mailto:lyueming1006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yuemingli-8b6914?style=flat-square&logo=linkedin&logoColor=8b6914&labelColor=f0e8d6)](https://www.linkedin.com/in/yuemingli-b51573189/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-c9a84c?style=flat-square&logo=safari&logoColor=c9a84c&labelColor=f5ede0)](https://yuemingli.contact/)
+[![Portfolio]()](https://yuemingli.contact/)
 
 </div>
 
