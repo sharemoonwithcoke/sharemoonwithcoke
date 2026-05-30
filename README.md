@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/Email-lyueming1006%40gmail.com-8b6914?style=flat-square&logo=gmail&logoColor=8b6914&labelColor=f0e8d6)](mailto:lyueming1006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yuemingli-8b6914?style=flat-square&logo=linkedin&logoColor=8b6914&labelColor=f0e8d6)](https://www.linkedin.com/in/yuemingli-b51573189/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-c9a84c?style=flat-square&logo=safari&logoColor=c9a84c&labelColor=f5ede0)](https://YOUR_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-c9a84c?style=flat-square&logo=safari&logoColor=c9a84c&labelColor=f5ede0)](https://yuemingli.contact/)
 
 </div>
 
@@ -57,7 +57,7 @@ I'm actively interviewing and happy to connect — whether it's a role, a referr
 
 <div align="center">
 
-📬 **[lyueming1006@gmail.com](mailto:lyueming1006@gmail.com)** · 💼 **[linkedin.com/in/yuemingli](https://www.linkedin.com/in/yuemingli-b51573189/)** · 🌐 **[YOUR_PORTFOLIO](https://YOUR_PORTFOLIO)**
+📬 **[lyueming1006@gmail.com](mailto:lyueming1006@gmail.com)** · 💼 **[linkedin.com/in/yuemingli](https://www.linkedin.com/in/yuemingli-b51573189/)** · 🌐 **[YOUR_PORTFOLIO](https://yuemingli.contact/)**
 
 *I read every message and usually reply within 24 hours.*
 
