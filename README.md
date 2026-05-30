@@ -57,7 +57,7 @@ I'm actively interviewing and happy to connect — whether it's a role, a referr
 
 <div align="center">
 
-📬 **[lyueming1006@gmail.com](mailto:lyueming1006@gmail.com)** · 💼 **[linkedin.com/in/yuemingli](https://www.linkedin.com/in/yuemingli-b51573189/)** · 🌐 **[YOUR_PORTFOLIO](https://yuemingli.contact/)**
+📬 **[lyueming1006@gmail.com](mailto:lyueming1006@gmail.com)** · 💼 **[linkedin.com/in/yuemingli](https://www.linkedin.com/in/yuemingli-b51573189/)** · 🌐 **[PORTFOLIO](https://yuemingli.contact/)**
 
 *I read every message and usually reply within 24 hours.*
 
